@@ -1,2 +1,1 @@
-# E-Commerce
-"Proyek analisis data untuk e-commerce menggunakan Python."
+git clone https://github.com/khamilia/repo-name.git
